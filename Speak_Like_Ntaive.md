@@ -327,7 +327,9 @@ Furthermore, in this sentence, there is a very clear liaison, 'helps_elementary.
 
 There is more in-depth explanation about /t/ and /d/ in the following content."
 
-## 14. "Let's talk about the consonant /l/ and how to overcome liaison. This sound is not much different from the /l/ in Chinese. The difference is that in English, many syllables follow the /l/ sound after a vowel, while in Chinese, there is only /l/ as an initial sound followed by a vowel (equivalent to a vowel in English). It is likely that because Chinese does not have situations where a vowel is followed by the sound /l/, many Chinese students struggle with the /l/ sound at the end of syllables. (Some students from southern China also have difficulty distinguishing between /l/ and /n/, which is a separate issue related to their native language and not English.)
+## 14. "Let's talk about the consonant /l/ and how to overcome liaison. 
+
+This sound is not much different from the /l/ in Chinese. The difference is that in English, many syllables follow the /l/ sound after a vowel, while in Chinese, there is only /l/ as an initial sound followed by a vowel (equivalent to a vowel in English). It is likely that because Chinese does not have situations where a vowel is followed by the sound /l/, many Chinese students struggle with the /l/ sound at the end of syllables. (Some students from southern China also have difficulty distinguishing between /l/ and /n/, which is a separate issue related to their native language and not English.)
 
 Most students have no problem with words where /l/ is at the beginning of a syllable, such as 'law,' 'value,' 'fly,' and so on. When pronouncing the /l/ in these words, it is almost the same as when saying the Chinese phrase 'Have you eaten?' It doesn't require much effort. However, when they pronounce words with /l/ at the end of a syllable, they make mistakes. For example, 'lawful,' 'valuable,' 'financial,' 'still,' and so on. Many students pronounce these words as /ˈlɔːfəu/, /ˈvæljəbəu/, /faɪˈnænʃəu/, and /ˈstɪəu/, respectively, with the ending of each word pronounced as the letter 'o.'
 
