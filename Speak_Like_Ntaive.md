@@ -1,5 +1,7 @@
 # Chapter 3 Speech
 
+chatGPT English version, the original source:https://github.com/xiaolai/everyone-can-use-english/blob/master/chapter3.md
+
 ## 1. Pronunciation is important but obviously not the most important
 On April 17, 2009, David Letterman invited a guest, Joe Wong, to his show. You can now find many videos of Joe Wong on Youku by searching for his name. Joe Wong is very thin, wears glasses, and looks dull. However, as soon as he opens his mouth, the audience bursts into laughter with just one sentence. In the next six minutes, one joke after another (American jokes that lose their flavor when translated into Chinese) makes the audience laugh so hard that they almost fall over, and they applaud several times. In the end, even his silence becomes a joke - this is a masterful performance. Joe Wong, born in 1970 in Baishan City, Jilin Province, China, studied chemistry at Jilin University for his undergraduate degree, went to the United States in 1994 to study, and received a PhD in biochemistry from Rice University in 1999.
 
@@ -368,3 +370,22 @@ If we talk about "linking," the important thing to note is that in connected wor
 Do you see it? The so-called "linking" is not intentionally connected; it naturally occurs when the articulation of the preceding consonant is complete. Even the so-called "sound changes" that will be explained later follow the same principle. It's not something intentional, but rather something that happens naturally. Linking is not as important as many teachers claim it to be, and the solution cannot be to link for the sake of linking. That would only address the symptoms and not the root cause.
 
 As for other consonants, they are generally much easier for Chinese students compared to /l/, and there is no need to practice them specifically (we have already discussed the most important ones, /t/, /d/, and /s/). With more shadowing, reading aloud, and speaking practice, everything will naturally improve."
+
+## 15. Mastering Voicing: Starting with /t/
+/t/ is truly a consonant that is worth spending time and effort on, even after this section is over.
+
+After learning that the tongue placement for /t/ is different from the Chinese sound [t], it's important to know another significant feature of /t/: when /t/ is sandwiched between two vowels, it becomes voiced. The most obvious example is the word "city." Since there are vowels before and after /t/, when pronounced, it is no longer /t/ but /t̬/ (please note the small "v" diacritic under the t). Another example is the word "meet," pronounced as /miːt/, but when adding "ing," it becomes /ˈmiːt̬ɪŋ/—/t/ changes to /t̪/, sounding very close to /d/. /t/ is referred to as a "voiceless consonant" because of this, while /d/ is considered a "voiced consonant" due to the vocal cord vibration during its pronunciation.
+
+In natural speech flow, there are many cases where /t/ is sandwiched between two vowels since many words end with /t/ and many words begin with a vowel. Please listen carefully to the following recording:
+
+You education majors might be especially interested in it because it offers the opportunity to do some teaching -- that is, tutoring in math and English. (Sentence 4 in Passage 1)
+
+In this example, there is a phenomenon called "liaison" occurring between "it offers," where /t/ is sandwiched between two vowels. Similarly, in "that is," the /t/ also undergoes the same change. The voiced /t̬/ is very close to /d/ because they share the same tongue placement, and /t̬/ has both the airflow and a slightly lighter vocal cord vibration compared to /d/. However, /t̪/ is relatively shorter and feels more elastic—indeed, directly pronouncing /t̪/ as /d/ is also possible, as the difference is minimal.
+
+Strictly speaking, it goes like this: when the voiceless consonant /t/ is sandwiched between two vowels, with the first vowel being stressed and the second vowel being unstressed, /t/ becomes voiced /t̬/. For example, words like "writer" and "rider," "latter" and "ladder," "petal" and "pedal" sound quite similar. Therefore, the second "t" in "opportunity" and the second "t" in "tutoring" in the previous passage are not voiced.
+
+However, it's challenging to distinguish these cases, especially for Chinese learners who study English as a foreign language. So, first understand the phenomenon of "voicing" and then try your best to imitate it, but there's no need to be overly demanding. In practice, through frequent speaking, even without intentionally voicing, it will naturally occur. Moreover, this is just a minor detail in pronunciation and plays a very small role in achieving effective communication.
+
+In natural speech flow, consonants /t/, /k/, /p/, and /ʧ/ that occur after the stressed syllable with /s/ often undergo voicing. So, "study" is pronounced like /sdʌdɪ/, "school" sounds like /sgu:l/, "experience" becomes /ɪksˈbɪərəns/, and "strive" is pronounced as /sʤaɪv/.
+
+However, sometimes these voiceless consonants (/t/, /k/, /p/, /ʧ/) in front of /s/ do not become voiced when they are not part of a stressed syllable with a following vowel. So in words like "distance," "costume," and "biscuit," the consonants following /s/ remain voiceless. Of course, in the word "coast," the /t/ definitely does not become voiced.
